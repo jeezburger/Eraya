@@ -7,7 +7,7 @@ export function Events() {
 
             <div className='flex justify-center items-center flex-wrap p-5 gap-10 '>
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello.png" alt="Sunset in the mountains" />
                     <div className=" px-1 py-4">
                         <div className="font-bold text-xl mb-2">Basketball (Boys & Girls)</div>
                         <p className="text-cyan-100 text-base">
@@ -26,7 +26,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Football</div>
                         <p className="text-cyan-100 text-base">
@@ -42,7 +42,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Athletics (400m, 200m, 100m)</div>
                         <p className="text-cyan-100 text-base">
@@ -58,7 +58,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello1.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello1.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Fashion</div>
                         <p className="text-cyan-100 text-base">
@@ -76,7 +76,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello2.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello2.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Drama</div>
                         <p className="text-cyan-100 text-base">
@@ -94,7 +94,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello3.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello3.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Dance Fusion</div>
                         <p className="text-cyan-100 text-base">
@@ -112,7 +112,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello4.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello4.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Music</div>
                         <p className="text-cyan-100 text-base">
@@ -130,7 +130,7 @@ export function Events() {
 
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
-                    <img className="w-full" src="src/components/hello5.png" alt="Sunset in the mountains" />
+                    <img className="w-full" src="/hello5.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Standup Comedy</div>
                         <p className="text-cyan-100 text-base">
