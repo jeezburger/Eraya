@@ -157,7 +157,7 @@ export function Events() {
                     </div>
                     <div className="px-1 pt-4 pb-2">
                         <a href='https://payment.manipal.edu/Eraya-Login' className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Registration</a>
-                        <a href='' className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Reciept</a>
+                        <a href='#' className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Reciept</a>
                         <a href='https://drive.google.com/file/d/1PzRYXQBPYZS3M6amx2Wc818G_RZw6FX3/view?usp=sharing' className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Rules</a>
                     </div>
                 </div>
