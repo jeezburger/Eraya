@@ -6,7 +6,7 @@ html {
 
 
 .Hero {
-    background-image: url('src/components/bgg.png'), linear-gradient(to right, #193A6F, #3373D7);
+    background-image: url('public/bgg.png'), linear-gradient(to right, #193A6F, #3373D7);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -14,7 +14,7 @@ html {
 }
 
 header nav {
-    background-image: url('src/components/bgg.png'), linear-gradient(to right, #193A6F, #3373D7);
+    background-image: url('public/bgg.png'), linear-gradient(to right, #193A6F, #3373D7);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
