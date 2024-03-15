@@ -1,0 +1,22 @@
+html {
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.Hero {
+    background-image: url('src/components/bgg.png'), linear-gradient(to right, #193A6F, #3373D7);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header nav {
+    background-image: url('src/components/bgg.png'), linear-gradient(to right, #193A6F, #3373D7);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
