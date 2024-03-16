@@ -146,6 +146,20 @@ export function Events() {
                     </div>
                 </div>
 
+                <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
+                    <img className="w-full" src="src/components/hello4.png" alt="Sunset in the mountains" />
+                    <div className="px-1 py-4">
+                        <div className="font-bold text-xl mb-2">DJ Night</div>
+                        <p className="text-cyan-100 text-base">
+
+                            Registration Fee: ₹399
+                            <br></br>
+                            Venue: Parking Lot
+                        </p>
+                    </div>
+                </div>
+
+
 
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
 
