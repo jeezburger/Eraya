@@ -13,9 +13,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹18,000
                             <br></br>
-                            Registration Fee (Boys: 5X5): ₹3,800
+                            Registration Fee (Boys: 5X5): ₹2,500
                             <br></br>
-                            Registration Fee (Girls: 3X3): ₹3,000
+                            Registration Fee (Girls: 3X3): ₹2,500
 
                         </p>
                     </div>
@@ -32,7 +32,7 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹18,000
                             <br></br>
-                            Registration Fee: ₹4,500
+                            Registration Fee: ₹2,500
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -46,9 +46,9 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Athletics (400m, 200m, 100m)</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹3,500
+                            Prize Pool: ₹3,000
                             <br></br>
-                            Registration Fee: ₹2,300
+                            Registration Fee: ₹500
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -64,9 +64,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹18,000
                             <br></br>
-                            Registration Fee (MAHE): ₹5,000
+                            Registration Fee (MAHE): ₹2,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹7,000
+                            Registration Fee (Non-MAHE): ₹3,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -82,9 +82,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹18,000
                             <br></br>
-                            Registration Fee (MAHE): ₹3,000
+                            Registration Fee (MAHE): ₹2,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹5,000
+                            Registration Fee (Non-MAHE): ₹3,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -100,9 +100,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹18,000
                             <br></br>
-                            Registration Fee (MAHE): ₹5,000
+                            Registration Fee (MAHE): ₹2,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹7,000
+                            Registration Fee (Non-MAHE): ₹3,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -114,13 +114,13 @@ export function Events() {
                 <div className=" p-5 bg-red-500 max-w-sm rounded overflow-hidden shadow-lg">
                     <img className="w-full" src="/hello4.png" alt="Sunset in the mountains" />
                     <div className="px-1 py-4">
-                        <div className="font-bold text-xl mb-2">Eraya Music</div>
+                        <div className="font-bold text-xl mb-2">Eraya Group Song</div>
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹18,000
                             <br></br>
-                            Registration Fee (MAHE): ₹3,000
+                            Registration Fee (MAHE): ₹2,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹5,000
+                            Registration Fee (Non-MAHE): ₹3,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -136,9 +136,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹11,000
                             <br></br>
-                            Registration Fee (MAHE): ₹1,000
+                            Registration Fee (MAHE): ₹500
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹3,000
+                            Registration Fee (Non-MAHE): ₹1,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
