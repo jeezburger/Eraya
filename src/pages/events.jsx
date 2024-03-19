@@ -166,7 +166,7 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Instructions for Registration</div>
                         <p className="text-cyan-100 text-base">
-                             Kindly register from the <b><u>registration button</u></b> below.
+                            Kindly register from the <b><u>registration button</u></b> below.
                             Once a receipt has been generated at the end of the registration, <b><u>download it or take a picture of it & note the transaction ID.</u></b>
                             Please submit the receipt to the google form under the <b><u>receipt button</u></b> with the transaction ID to confirm the registration.
                         </p>
