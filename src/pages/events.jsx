@@ -11,7 +11,7 @@ export function Events() {
                     <div className=" px-1 py-4">
                         <div className="font-bold text-xl mb-2">Basketball (Boys & Girls)</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹18,000
+                            Prize Pool: ₹16,000
                             <br></br>
                             Registration Fee (Boys: 5X5): ₹2,500
                             <br></br>
@@ -30,7 +30,7 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Football</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹18,000
+                            Prize Pool: ₹16,000
                             <br></br>
                             Registration Fee: ₹2,500
                         </p>
@@ -62,7 +62,7 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Fashion</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹18,000
+                            Prize Pool: ₹16,000
                             <br></br>
                             Registration Fee (MAHE): ₹2,000
                             <br></br>
@@ -80,7 +80,7 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Drama</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹18,000
+                            Prize Pool: ₹16,000
                             <br></br>
                             Registration Fee (MAHE): ₹2,000
                             <br></br>
@@ -98,7 +98,7 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Dance Fusion</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹18,000
+                            Prize Pool: ₹16,000
                             <br></br>
                             Registration Fee (MAHE): ₹2,000
                             <br></br>
@@ -116,7 +116,7 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Eraya Group Song</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹18,000
+                            Prize Pool: ₹16,000
                             <br></br>
                             Registration Fee (MAHE): ₹2,000
                             <br></br>
