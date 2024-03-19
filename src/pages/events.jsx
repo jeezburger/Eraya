@@ -11,11 +11,11 @@ export function Events() {
                     <div className=" px-1 py-4">
                         <div className="font-bold text-xl mb-2">Basketball (Boys & Girls)</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹16,000
+                            Prize Pool: ₹25,000
                             <br></br>
-                            Registration Fee (Boys: 5X5): ₹2,500
+                            Registration Fee (Boys: 5X5): ₹1,000
                             <br></br>
-                            Registration Fee (Girls: 3X3): ₹2,500
+                            Registration Fee (Girls: 3X3): ₹1,000
 
                         </p>
                     </div>
@@ -30,9 +30,9 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Football</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹16,000
+                            Prize Pool: ₹25,000
                             <br></br>
-                            Registration Fee: ₹2,500
+                            Registration Fee: ₹1,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -46,9 +46,9 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Athletics (400m, 200m, 100m)</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹3,000
+                            Prize Pool: ₹7,000
                             <br></br>
-                            Registration Fee: ₹500
+                            Registration Fee: ₹300
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -64,9 +64,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹16,000
                             <br></br>
-                            Registration Fee (MAHE): ₹2,000
+                            Registration Fee (MAHE): ₹1,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹3,000
+                            Registration Fee (Non-MAHE): ₹1,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -82,9 +82,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹16,000
                             <br></br>
-                            Registration Fee (MAHE): ₹2,000
+                            Registration Fee (MAHE): ₹1,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹3,000
+                            Registration Fee (Non-MAHE): ₹1,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -100,9 +100,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹16,000
                             <br></br>
-                            Registration Fee (MAHE): ₹2,000
+                            Registration Fee (MAHE): ₹1,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹3,000
+                            Registration Fee (Non-MAHE): ₹1,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -118,9 +118,9 @@ export function Events() {
                         <p className="text-cyan-100 text-base">
                             Prize Pool: ₹16,000
                             <br></br>
-                            Registration Fee (MAHE): ₹2,000
+                            Registration Fee (MAHE): ₹1,000
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹3,000
+                            Registration Fee (Non-MAHE): ₹1,000
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
@@ -134,11 +134,11 @@ export function Events() {
                     <div className="px-1 py-4">
                         <div className="font-bold text-xl mb-2">Standup Comedy</div>
                         <p className="text-cyan-100 text-base">
-                            Prize Pool: ₹11,000
+                            Prize Pool: ₹9,000
                             <br></br>
-                            Registration Fee (MAHE): ₹500
+                            Registration Fee (MAHE): ₹200
                             <br></br>
-                            Registration Fee (Non-MAHE): ₹1,000
+                            Registration Fee (Non-MAHE): ₹200
                         </p>
                     </div>
                     <div className="px-1 pt-4 pb-2">
