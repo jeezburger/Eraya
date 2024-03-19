@@ -152,7 +152,7 @@ export function Events() {
                         <div className="font-bold text-xl mb-2">DJ Night</div>
                         <p className="text-cyan-100 text-base">
 
-                            Registration Fee: ₹399
+                            Registration Fee: ₹199
                             <br></br>
                             Venue: Parking Lot
                         </p>
